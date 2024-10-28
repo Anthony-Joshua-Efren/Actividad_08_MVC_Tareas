@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Actividad_08_MVC_Tareas</string>
+    <string name="agregar">Agregar Tarea</string>
+    <string name="titulo">Título de la tarea</string>
+    <string name="descripcion">Descripción de la tarea</string>
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="toolbar">Mis Tareas Personales</string>
+</resources>
